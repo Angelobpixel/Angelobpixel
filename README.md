@@ -1,5 +1,5 @@
-## Hi there 👻
-#### Welcome to my github profile.
+# _Hi there_ 👻
+#### Welcome to my github profile _(my student profile)_ .
 
 <img width="180em" align="right" src="https://c.tenor.com/zE4ozkXHGWAAAAAC/sylveon.gif">
 
