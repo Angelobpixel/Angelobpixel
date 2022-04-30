@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   </a>
 </div>
 
